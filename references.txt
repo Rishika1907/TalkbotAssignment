@@ -1,0 +1,5 @@
+References used for developing the talk bot
+- https://realpython.com/python-speech-recognition/
+- https://www.geeksforgeeks.org/python-text-to-speech-pyttsx-module/
+- https://chatterbot.readthedocs.io/en/stable/
+- https://pyttsx3.readthedocs.io/en/latest/engine.html
